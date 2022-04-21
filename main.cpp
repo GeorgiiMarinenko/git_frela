@@ -1,9 +1,8 @@
 #include <iostream>
 
-int main(void)
+int main()
 {
     std::cout << "Hello Alex" << std::endl;
-    int b;
 
     return 0;
 }
