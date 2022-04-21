@@ -6,5 +6,11 @@ int main() {
     b = 4;
     std::cout << "kaf: " << a + b << std::endl;
 
+    char ch;
+    char kaf[] = {'k','a', 'f','3','0','4', '\n'};
+    for(int i =0;i<7;i++)
+    {
+        std::cout<<(int)kaf[i]<<std::endl;
+    }
     return 0;
 }
