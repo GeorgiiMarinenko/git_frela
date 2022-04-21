@@ -1,10 +1,9 @@
 #include <iostream>
 
-int main()
+int main(void)
 {
     std::cout << "Hello Alex" << std::endl;
-    std::cout << "Hello git" << std::endl;
-    int a;
+    int b;
 
     return 0;
 }
