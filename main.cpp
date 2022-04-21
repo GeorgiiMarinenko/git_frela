@@ -12,5 +12,6 @@ int main() {
     {
         std::cout<<(int)kaf[i]<<std::endl;
     }
+    std::cout<<"Vladilen.js 500 000 per sec\n";
     return 0;
 }
