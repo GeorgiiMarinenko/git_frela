@@ -1,6 +1,0 @@
-C:/projects/L8/git_frela/Calc/build/CMakeFiles/calculator.dir
-C:/projects/L8/git_frela/Calc/build/CMakeFiles/edit_cache.dir
-C:/projects/L8/git_frela/Calc/build/CMakeFiles/rebuild_cache.dir
-C:/projects/L8/git_frela/Calc/build/Calc/CMakeFiles/rebuild_cache.dir
-C:/projects/L8/git_frela/Calc/build/Calc/CMakeFiles/Calc.dir
-C:/projects/L8/git_frela/Calc/build/Calc/CMakeFiles/edit_cache.dir
