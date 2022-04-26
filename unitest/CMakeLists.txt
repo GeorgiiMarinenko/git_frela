@@ -14,7 +14,6 @@ project(test)
 set(INCLUDE_DIRS
 	"."
 	"../Calc/lib"
-	"."
 	)
 include_directories(${INCLUDE_DIRS})
 
@@ -25,12 +24,16 @@ include_directories(${INCLUDE_DIRS})
 add_subdirectory("../Calc/lib" Calc)
 set(SOURCES
         main.cpp
+		TCalcTest.cpp
+		TEngCalcTest.cpp
 )
 
 set(HEADERS
 	./TCalcTest.h
 	./TEngCalcTest.h
 	./ITest.h
+	../Calc/lib/TCalc.h
+	../Calc/lib/TEngCalc.h
     )
 
 add_executable(${PROJECT_NAME} ${SOURCES} ${HEADERS})
