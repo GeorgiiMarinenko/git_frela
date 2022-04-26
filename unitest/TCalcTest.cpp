@@ -2,9 +2,9 @@
 
 #include <iostream>
 
-TCalcTest::TCalcTest() {}
+// TCalcTest::TCalcTest() {}
 
-TCalcTest::~TCalcTest() {}
+// TCalcTest::~TCalcTest() {}
 
 std::string TCalcTest::test() {
     std::string rez;

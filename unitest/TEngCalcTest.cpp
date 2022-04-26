@@ -2,9 +2,9 @@
 
 #include <iostream>
 
-TEngCalcTest::TEngCalcTest() {}
+// TEngCalcTest::TEngCalcTest() {}
 
-TEngCalcTest::~TEngCalcTest() {}
+// TEngCalcTest::~TEngCalcTest() {}
 
 std::string TEngCalcTest::test() {
     std::string rez;
