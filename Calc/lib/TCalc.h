@@ -1,9 +1,9 @@
 #pragma once
 
-class TClalc {
+class TCalc {
    public:
-    TClalc();
-    ~TClalc();
+    TCalc() {};
+    ~TCalc() {};
     int sum(const int& a, const int& b);
     int sub(const int& a, const int& b);
 };

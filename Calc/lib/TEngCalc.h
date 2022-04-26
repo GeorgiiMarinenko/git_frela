@@ -1,9 +1,9 @@
-#pragma once 
+#pragma once
 
-class TEngCalac{
+class TEngCalc{
     public:
-    TEngCalac();
-    ~TEngCalac();
+    TEngCalc();
+    ~TEngCalc();
     double sum(const double& a,const double& b);
     double sub(const double& a,const double& b);
     int squareR(const int& a);

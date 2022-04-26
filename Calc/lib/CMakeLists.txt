@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(TEngCalac)
+project(Calc)
 
 set(INCLUDE_DIRS
 	"."
@@ -10,11 +10,13 @@ include_directories(
 	)
 
 set(SOURCES
-	TEngCalac.cpp
+	TCalc.cpp
+	TEngCalc.cpp
 )
 
 set(HEADERS
-	TEngCalac.h
+	TCalc.h
+	TEngCalc.h
     )
 
 add_library(${PROJECT_NAME} ${SOURCES} ${HEADERS})

@@ -9,11 +9,11 @@ cmake_minimum_required(VERSION 3.5)
 # set(CMAKE_CXX_STANDARD 11)
 # set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-project(Calc)
+project(calculator)
 
 set(INCLUDE_DIRS
 	"."
-	"./includes"
+	"./lib"
 	)
 include_directories(${INCLUDE_DIRS})
 
@@ -21,13 +21,14 @@ include_directories(${INCLUDE_DIRS})
 # 	"./lib"
 # )
 # link_directories(${LINK_DIR})
-add_subdirectory("./lib/Calc/" )
+add_subdirectory("./lib" Calc)
 set(SOURCES
         main.cpp
 )
 
 set(HEADERS
-	./includes/TCalc.h
+	./lib/TCalc.h
+	./lib/TEngCalc.h
     )
 
 add_executable(${PROJECT_NAME} ${SOURCES} ${HEADERS})
