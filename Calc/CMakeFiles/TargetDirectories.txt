@@ -1,0 +1,6 @@
+/Users/georgijmarinenko/Desktop/MAI/Compilators/Electives/Unit-tests/Calc/CMakeFiles/rebuild_cache.dir
+/Users/georgijmarinenko/Desktop/MAI/Compilators/Electives/Unit-tests/Calc/CMakeFiles/edit_cache.dir
+/Users/georgijmarinenko/Desktop/MAI/Compilators/Electives/Unit-tests/Calc/CMakeFiles/hello.dir
+/Users/georgijmarinenko/Desktop/MAI/Compilators/Electives/Unit-tests/Calc/lib/Calc/CMakeFiles/rebuild_cache.dir
+/Users/georgijmarinenko/Desktop/MAI/Compilators/Electives/Unit-tests/Calc/lib/Calc/CMakeFiles/edit_cache.dir
+/Users/georgijmarinenko/Desktop/MAI/Compilators/Electives/Unit-tests/Calc/lib/Calc/CMakeFiles/Calc.dir
