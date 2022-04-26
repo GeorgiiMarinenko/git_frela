@@ -2,9 +2,9 @@
 
 #include <cmath>
 
-// TEngCalc::TEngCalc() {}
+TEngCalc::TEngCalc() {}
 
-// TEngCalc::~TEngCalc() {}
+TEngCalc::~TEngCalc() {}
 
 double TEngCalc::sum(const double& a, const double& b) { return a + b; }
 

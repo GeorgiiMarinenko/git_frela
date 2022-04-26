@@ -1,0 +1,2 @@
+C:\mingw730_32\bin\ar.exe qc libCalc.a  CMakeFiles/Calc.dir/TCalc.cpp.obj CMakeFiles/Calc.dir/TEngCalc.cpp.obj
+C:\mingw730_32\bin\ranlib.exe libCalc.a
