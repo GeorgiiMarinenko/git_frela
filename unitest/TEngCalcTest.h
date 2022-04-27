@@ -4,8 +4,8 @@
 
 class TEngCalcTest : public ITest {
    public:
-    TEngCalcTest() {};
-    virtual ~TEngCalcTest() {};
+    TEngCalcTest(){};
+    virtual ~TEngCalcTest(){};
     virtual std::string test() override;
     std::string sumTest();
     std::string subTest();

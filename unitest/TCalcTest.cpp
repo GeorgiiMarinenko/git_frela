@@ -14,27 +14,28 @@ std::string TCalcTest::test() {
 }
 std::string TCalcTest::sumTest() {
     TCalc exmpl;
-    std::cout << "\tТест №1\t" << std::endl;
     if (exmpl.sum(5, 4) != (int)9) {
-        std::string rez ;
-        rez = "Тест sum не пройден\n результат выражения  = 9 а не " +
-               std::to_string(exmpl.sum(5, 4) )+ "\n";
-        return  rez;
-
+        std::string rez;
+        rez =
+            "\tТест №1\t \nТест sum не пройден\n результат выражения  = 9 а "
+            "не " +
+            std::to_string(exmpl.sum(5, 4)) + "\n";
+        return rez;
     } else {
-        return "sumTest пройден\n";
+        return "\tТест №1\t \nsumTest пройден\n";
     }
 }
 
 std::string TCalcTest::subTest() {
     TCalc exmpl;
-    std::cout << "\tТест №2\t" << std::endl;
     if (exmpl.sub(5, 4) != (int)1) {
-         std::string rez;
-        rez = "Тест sum не пройден\n результат выражения  = 1 а не " +
-               std::to_string(exmpl.sum(5, 4) )+ "\n";
+        std::string rez;
+        rez =
+            "\tТест №1\t \nТест sum не пройден\nРезультат выражения  = 1 а "
+            "не " +
+            std::to_string(exmpl.sum(5, 4)) + "\n";
         return rez;
     } else {
-        return "subTest пройден\n";
+        return "\tТест №2\t\nsubTest пройден\n";
     }
 }

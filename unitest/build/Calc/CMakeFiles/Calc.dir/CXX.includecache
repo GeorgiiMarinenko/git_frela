@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miwlm/compile/git/git_frela/Calc/lib/TCalc.cpp
+TCalc.h
+/home/miwlm/compile/git/git_frela/Calc/lib/TCalc.h
+
+/home/miwlm/compile/git/git_frela/Calc/lib/TCalc.h
+
+/home/miwlm/compile/git/git_frela/Calc/lib/TEngCalc.cpp
+TEngCalc.h
+/home/miwlm/compile/git/git_frela/Calc/lib/TEngCalc.h
+cmath
+-
+
+/home/miwlm/compile/git/git_frela/Calc/lib/TEngCalc.h
+
