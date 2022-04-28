@@ -1,6 +1,0 @@
-/home/miwlm/compile/git/git_frela/unitest/build/CMakeFiles/rebuild_cache.dir
-/home/miwlm/compile/git/git_frela/unitest/build/CMakeFiles/edit_cache.dir
-/home/miwlm/compile/git/git_frela/unitest/build/CMakeFiles/test.dir
-/home/miwlm/compile/git/git_frela/unitest/build/Calc/CMakeFiles/rebuild_cache.dir
-/home/miwlm/compile/git/git_frela/unitest/build/Calc/CMakeFiles/edit_cache.dir
-/home/miwlm/compile/git/git_frela/unitest/build/Calc/CMakeFiles/Calc.dir

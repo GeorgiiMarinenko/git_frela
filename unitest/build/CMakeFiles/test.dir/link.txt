@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/test.dir/main.cpp.o CMakeFiles/test.dir/TCalcTest.cpp.o CMakeFiles/test.dir/TEngCalcTest.cpp.o  -o test  Calc/libCalc.a 
