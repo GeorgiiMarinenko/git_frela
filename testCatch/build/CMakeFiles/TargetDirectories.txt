@@ -1,0 +1,6 @@
+/home/user/Рабочий стол/projects/catch/git_frela/testCatch/build/CMakeFiles/rebuild_cache.dir
+/home/user/Рабочий стол/projects/catch/git_frela/testCatch/build/CMakeFiles/testsCalc.dir
+/home/user/Рабочий стол/projects/catch/git_frela/testCatch/build/CMakeFiles/edit_cache.dir
+/home/user/Рабочий стол/projects/catch/git_frela/testCatch/build/Calc/CMakeFiles/rebuild_cache.dir
+/home/user/Рабочий стол/projects/catch/git_frela/testCatch/build/Calc/CMakeFiles/Calc.dir
+/home/user/Рабочий стол/projects/catch/git_frela/testCatch/build/Calc/CMakeFiles/edit_cache.dir

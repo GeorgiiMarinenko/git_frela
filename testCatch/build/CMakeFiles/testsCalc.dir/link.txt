@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/testsCalc.dir/test.cpp.o CMakeFiles/testsCalc.dir/testEng.cpp.o  -o testsCalc Calc/libCalc.a /usr/local/lib/libCatch2Main.a /usr/local/lib/libCatch2.a 
