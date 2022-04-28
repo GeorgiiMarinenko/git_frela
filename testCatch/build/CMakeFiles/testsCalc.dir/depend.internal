@@ -42,38 +42,161 @@ CMakeFiles/testsCalc.dir/test.cpp.o
 CMakeFiles/testsCalc.dir/testEng.cpp.o
  ../../Calc/lib/TEngCalc.h
  /home/user/Рабочий стол/projects/catch/git_frela/testCatch/testEng.cpp
+ /usr/local/include/catch2/benchmark/catch_benchmark.hpp
+ /usr/local/include/catch2/benchmark/catch_benchmark_all.hpp
+ /usr/local/include/catch2/benchmark/catch_chronometer.hpp
+ /usr/local/include/catch2/benchmark/catch_clock.hpp
+ /usr/local/include/catch2/benchmark/catch_constructor.hpp
+ /usr/local/include/catch2/benchmark/catch_environment.hpp
+ /usr/local/include/catch2/benchmark/catch_estimate.hpp
+ /usr/local/include/catch2/benchmark/catch_execution_plan.hpp
+ /usr/local/include/catch2/benchmark/catch_optimizer.hpp
+ /usr/local/include/catch2/benchmark/catch_outlier_classification.hpp
+ /usr/local/include/catch2/benchmark/catch_sample_analysis.hpp
+ /usr/local/include/catch2/benchmark/detail/catch_analyse.hpp
+ /usr/local/include/catch2/benchmark/detail/catch_benchmark_function.hpp
+ /usr/local/include/catch2/benchmark/detail/catch_complete_invoke.hpp
+ /usr/local/include/catch2/benchmark/detail/catch_estimate_clock.hpp
+ /usr/local/include/catch2/benchmark/detail/catch_measure.hpp
+ /usr/local/include/catch2/benchmark/detail/catch_repeat.hpp
+ /usr/local/include/catch2/benchmark/detail/catch_run_for_at_least.hpp
+ /usr/local/include/catch2/benchmark/detail/catch_stats.hpp
+ /usr/local/include/catch2/benchmark/detail/catch_timing.hpp
+ /usr/local/include/catch2/catch_all.hpp
+ /usr/local/include/catch2/catch_approx.hpp
  /usr/local/include/catch2/catch_assertion_info.hpp
+ /usr/local/include/catch2/catch_assertion_result.hpp
+ /usr/local/include/catch2/catch_config.hpp
  /usr/local/include/catch2/catch_message.hpp
  /usr/local/include/catch2/catch_section_info.hpp
+ /usr/local/include/catch2/catch_session.hpp
+ /usr/local/include/catch2/catch_tag_alias.hpp
+ /usr/local/include/catch2/catch_tag_alias_autoregistrar.hpp
+ /usr/local/include/catch2/catch_template_test_macros.hpp
+ /usr/local/include/catch2/catch_test_case_info.hpp
  /usr/local/include/catch2/catch_test_macros.hpp
+ /usr/local/include/catch2/catch_test_spec.hpp
  /usr/local/include/catch2/catch_timer.hpp
  /usr/local/include/catch2/catch_tostring.hpp
  /usr/local/include/catch2/catch_totals.hpp
+ /usr/local/include/catch2/catch_translate_exception.hpp
  /usr/local/include/catch2/catch_user_config.hpp
+ /usr/local/include/catch2/catch_version.hpp
+ /usr/local/include/catch2/catch_version_macros.hpp
+ /usr/local/include/catch2/generators/catch_generator_exception.hpp
+ /usr/local/include/catch2/generators/catch_generators.hpp
+ /usr/local/include/catch2/generators/catch_generators_adapters.hpp
+ /usr/local/include/catch2/generators/catch_generators_all.hpp
+ /usr/local/include/catch2/generators/catch_generators_random.hpp
+ /usr/local/include/catch2/generators/catch_generators_range.hpp
+ /usr/local/include/catch2/interfaces/catch_interfaces_all.hpp
  /usr/local/include/catch2/interfaces/catch_interfaces_capture.hpp
+ /usr/local/include/catch2/interfaces/catch_interfaces_config.hpp
  /usr/local/include/catch2/interfaces/catch_interfaces_enum_values_registry.hpp
+ /usr/local/include/catch2/interfaces/catch_interfaces_exception.hpp
+ /usr/local/include/catch2/interfaces/catch_interfaces_generatortracker.hpp
  /usr/local/include/catch2/interfaces/catch_interfaces_registry_hub.hpp
+ /usr/local/include/catch2/interfaces/catch_interfaces_reporter.hpp
+ /usr/local/include/catch2/interfaces/catch_interfaces_reporter_factory.hpp
+ /usr/local/include/catch2/interfaces/catch_interfaces_reporter_registry.hpp
+ /usr/local/include/catch2/interfaces/catch_interfaces_tag_alias_registry.hpp
  /usr/local/include/catch2/interfaces/catch_interfaces_testcase.hpp
  /usr/local/include/catch2/internal/catch_assertion_handler.hpp
+ /usr/local/include/catch2/internal/catch_case_insensitive_comparisons.hpp
+ /usr/local/include/catch2/internal/catch_case_sensitive.hpp
+ /usr/local/include/catch2/internal/catch_clara.hpp
+ /usr/local/include/catch2/internal/catch_commandline.hpp
  /usr/local/include/catch2/internal/catch_compiler_capabilities.hpp
+ /usr/local/include/catch2/internal/catch_config_android_logwrite.hpp
  /usr/local/include/catch2/internal/catch_config_counter.hpp
+ /usr/local/include/catch2/internal/catch_config_uncaught_exceptions.hpp
  /usr/local/include/catch2/internal/catch_config_wchar.hpp
+ /usr/local/include/catch2/internal/catch_console_colour.hpp
+ /usr/local/include/catch2/internal/catch_console_width.hpp
+ /usr/local/include/catch2/internal/catch_container_nonmembers.hpp
+ /usr/local/include/catch2/internal/catch_context.hpp
+ /usr/local/include/catch2/internal/catch_debug_console.hpp
+ /usr/local/include/catch2/internal/catch_debugger.hpp
  /usr/local/include/catch2/internal/catch_decomposer.hpp
+ /usr/local/include/catch2/internal/catch_enforce.hpp
+ /usr/local/include/catch2/internal/catch_enum_values_registry.hpp
+ /usr/local/include/catch2/internal/catch_errno_guard.hpp
+ /usr/local/include/catch2/internal/catch_exception_translator_registry.hpp
+ /usr/local/include/catch2/internal/catch_fatal_condition_handler.hpp
+ /usr/local/include/catch2/internal/catch_floating_point_helpers.hpp
+ /usr/local/include/catch2/internal/catch_istream.hpp
  /usr/local/include/catch2/internal/catch_lazy_expr.hpp
+ /usr/local/include/catch2/internal/catch_leak_detector.hpp
+ /usr/local/include/catch2/internal/catch_list.hpp
  /usr/local/include/catch2/internal/catch_message_info.hpp
  /usr/local/include/catch2/internal/catch_meta.hpp
  /usr/local/include/catch2/internal/catch_move_and_forward.hpp
  /usr/local/include/catch2/internal/catch_noncopyable.hpp
+ /usr/local/include/catch2/internal/catch_optional.hpp
+ /usr/local/include/catch2/internal/catch_output_redirect.hpp
  /usr/local/include/catch2/internal/catch_platform.hpp
+ /usr/local/include/catch2/internal/catch_polyfills.hpp
+ /usr/local/include/catch2/internal/catch_preprocessor.hpp
  /usr/local/include/catch2/internal/catch_preprocessor_remove_parens.hpp
+ /usr/local/include/catch2/internal/catch_random_number_generator.hpp
+ /usr/local/include/catch2/internal/catch_random_seed_generation.hpp
+ /usr/local/include/catch2/internal/catch_reporter_registry.hpp
+ /usr/local/include/catch2/internal/catch_reporter_spec_parser.hpp
  /usr/local/include/catch2/internal/catch_result_type.hpp
  /usr/local/include/catch2/internal/catch_reusable_string_stream.hpp
+ /usr/local/include/catch2/internal/catch_run_context.hpp
  /usr/local/include/catch2/internal/catch_section.hpp
+ /usr/local/include/catch2/internal/catch_sharding.hpp
+ /usr/local/include/catch2/internal/catch_singletons.hpp
  /usr/local/include/catch2/internal/catch_source_line_info.hpp
+ /usr/local/include/catch2/internal/catch_startup_exception_registry.hpp
+ /usr/local/include/catch2/internal/catch_stdstreams.hpp
  /usr/local/include/catch2/internal/catch_stream_end_stop.hpp
+ /usr/local/include/catch2/internal/catch_string_manip.hpp
  /usr/local/include/catch2/internal/catch_stringref.hpp
+ /usr/local/include/catch2/internal/catch_tag_alias_registry.hpp
+ /usr/local/include/catch2/internal/catch_template_test_registry.hpp
+ /usr/local/include/catch2/internal/catch_test_case_info_hasher.hpp
+ /usr/local/include/catch2/internal/catch_test_case_registry_impl.hpp
+ /usr/local/include/catch2/internal/catch_test_case_tracker.hpp
+ /usr/local/include/catch2/internal/catch_test_failure_exception.hpp
  /usr/local/include/catch2/internal/catch_test_macro_impl.hpp
  /usr/local/include/catch2/internal/catch_test_registry.hpp
+ /usr/local/include/catch2/internal/catch_test_spec_parser.hpp
+ /usr/local/include/catch2/internal/catch_textflow.hpp
+ /usr/local/include/catch2/internal/catch_to_string.hpp
+ /usr/local/include/catch2/internal/catch_uncaught_exceptions.hpp
  /usr/local/include/catch2/internal/catch_unique_name.hpp
  /usr/local/include/catch2/internal/catch_unique_ptr.hpp
  /usr/local/include/catch2/internal/catch_void_type.hpp
+ /usr/local/include/catch2/internal/catch_wildcard_pattern.hpp
+ /usr/local/include/catch2/internal/catch_windows_h_proxy.hpp
+ /usr/local/include/catch2/internal/catch_xmlwriter.hpp
+ /usr/local/include/catch2/matchers/catch_matchers.hpp
+ /usr/local/include/catch2/matchers/catch_matchers_all.hpp
+ /usr/local/include/catch2/matchers/catch_matchers_container_properties.hpp
+ /usr/local/include/catch2/matchers/catch_matchers_contains.hpp
+ /usr/local/include/catch2/matchers/catch_matchers_exception.hpp
+ /usr/local/include/catch2/matchers/catch_matchers_floating_point.hpp
+ /usr/local/include/catch2/matchers/catch_matchers_predicate.hpp
+ /usr/local/include/catch2/matchers/catch_matchers_quantifiers.hpp
+ /usr/local/include/catch2/matchers/catch_matchers_string.hpp
+ /usr/local/include/catch2/matchers/catch_matchers_templated.hpp
+ /usr/local/include/catch2/matchers/catch_matchers_vector.hpp
+ /usr/local/include/catch2/matchers/internal/catch_matchers_impl.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_automake.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_common_base.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_compact.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_console.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_cumulative_base.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_event_listener.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_helpers.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_junit.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_multi.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_registrars.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_sonarqube.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_streaming_base.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_tap.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_teamcity.hpp
+ /usr/local/include/catch2/reporters/catch_reporter_xml.hpp
+ /usr/local/include/catch2/reporters/catch_reporters_all.hpp
